@@ -81,7 +81,10 @@
 - **React.js Fundamentals** – The Knowledge Academy (100 hrs)
 
 ---
+## 📄 Reports
 
+- 🔗 **Master Project Report (Arabic)**: [View Report](https://s0if.github.io/Master_Report_Arabic/)
+---
 ## 📫 Let's Connect!
 
 - ✉️ **Email:** [saifalkomi@gmail.com](mailto:saifalkomi@gmail.com)  
